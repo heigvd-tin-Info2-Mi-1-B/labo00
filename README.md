@@ -24,11 +24,12 @@ docker run -it -p 127.0.0.1:8080:8080 -v /Users/pierre/Documents/01-HEIG-VD/10-C
 
 
 ## Assignment
+Vous avez reçu un lien pour l'assignment.
 - accepter l'`Assignment` Labo00
-- à l'aide de GitHub Desktop, récupérez la donnée du labo (labo00.md)
+- à l'aide de GitHub Desktop, récupérer la donnée du labo (labo00.md)
 
 ## Travail à effectuer
 - prendre connaissance de la donnée du labo
-- réalisez le travail demandé
+- réaliser le travail demandé
 - enregistrer les données : `commit`
 - livrer le travail : `push`
