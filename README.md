@@ -14,5 +14,5 @@
 ## Travail à effectuer
 - prendre connaissance de la donnée du labo
 - réalisez le travail demandé
-- enregistrer les données : `commit``
+- enregistrer les données : `commit`
 - livrer le travail : `push`
