@@ -19,7 +19,8 @@ docker run -it -p 127.0.0.1:8080:8080 -v WORKDIR/Work/.local/share/code-server:/
 Exemple avec `WORKDIR=/Users/pierre/Documents/01-HEIG-VD/10-CLASSES/2019-2020/Info2-Mi-1-B` :
 
 ```bash
-docker run -it -p 127.0.0.1:8080:8080 -v /Users/pierre/Documents/01-HEIG-VD/10-CLASSES/2019-2020/Info2-Mi-1-B/Work/.local/share/code-server:/home/coder/.local/share/code-server -v /Users/pierre/Documents/01-HEIG-VD/10-CLASSES/2019-2020/Info2-Mi-1-B/Work/:/home/coder/project 314rch/info:latest```
+docker run -it -p 127.0.0.1:8080:8080 -v /Users/pierre/Documents/01-HEIG-VD/10-CLASSES/2019-2020/Info2-Mi-1-B/Work/.local/share/code-server:/home/coder/.local/share/code-server -v /Users/pierre/Documents/01-HEIG-VD/10-CLASSES/2019-2020/Info2-Mi-1-B/Work/:/home/coder/project 314rch/info:latest
+```
 
 
 ## Assignment
